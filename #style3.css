@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}header {
+    font-size: 40px;
+    font-weight: 300;
+    font-style: oblique;
+}
+
+body{
+    background-image: url('https://blogs.uoregon.edu/lairdtw16gateway/files/2012/09/image2-pchg8q.jpeg');
+    background: rgb(138, 123, 206);
+    text-align: center;
+}h1 {
+    color: rgb(192, 255, 224);
+    font-size: 60px;
+    font-style: italic;
+}p {
+    color: blue
+}li {
+    color: red;
+    list-style: none;
+    display: inline-block;}ul {
+    display: inline-block;
+}#special {
+    color: green;
+    font-size: 20px;
+}.cool {
+    color: lightblue;
+}.square {
+    text-align: rig;
+    height: 250px;
+    width: 250px;
+    border-radius: 15px;
+    background: rgb(71, 71, 156);
+    border: dotted lightseagreen 5px;
+    margin: 0 auto;
+    padding: 40px;
+    color: orange;}#cool-square {
+    background: red;
+}#uncool-square {
+    background: blue;
+}#cooler-square {
+    background: crimson;
+    height: 250px;
+    border-radius: 15px;
+    background: rgb(34, 56, 162);
+    margin: auto;
+}#stuff-list {
+    background: darkgoldenrod;
+    font-size: 40px;
+
+}
