@@ -1,0 +1,23 @@
+h2 {color:green;
+font: size 40px;
+font-style:italic ;}
+
+p{
+    color: blueviolet;
+}
+
+li {
+    color: crimson;
+}
+#special {
+    color: green;
+    font-size: 20px;
+
+}
+#cool-quare{ 
+    height: 250;
+    width: 250;
+    background: red;
+    border-radius: 15px;
+    border: dotted;
+
